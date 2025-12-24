@@ -9,16 +9,6 @@
 - [Quick Start](#-quick-start)
 - [Prerequisites](#-prerequisites)
 - [Installation & Setup](#-installation--setup)
-- [Project Overview](#-project-overview)
-- [Running the Services](#-running-the-services)
-- [API Endpoints](#-api-endpoints)
-- [Streamlit Chat UI](#-streamlit-chat-ui)
-- [Configuration](#-configuration)
-- [Troubleshooting](#-troubleshooting)
-- [System Requirements](#-system-requirements)
-- [Agent Decision Logic](#-agent-decision-logic)
-- [Additional Resources](#-additional-resources)
-- [License](#-license)
 
 ---
 
