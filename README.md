@@ -122,7 +122,6 @@ GROQ_API_KEY=your_groq_api_key_here
 SENTIMENT_AGENT_HOST=localhost
 SENTIMENT_AGENT_PORT=8000
 ```
-Replace your_groq_api_key_here with your actual Groq API key from Step 2.
----
+#### Replace your_groq_api_key_here with your actual Groq API key from Step 2.
 
 
