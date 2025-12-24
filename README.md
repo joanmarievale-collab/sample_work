@@ -37,6 +37,7 @@ cp .env.example .env
 
 # Build and start all services
 docker-compose up --build
+```
 
 ---
 
@@ -74,8 +75,35 @@ python main.py
 
 # Terminal 3:
 streamlit run streamlit/chat_ui.py
-
+```
 ---
 
 ### Prerequisites
+- [Python 3.8+ (for manual setup)]
+- [Docker & Docker Compose (for Docker setup)]
+- [Git]
+- [Groq API Key]
+
+---
+
+### Step-by-Step Setup
+
+#### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/joanmarievale-collab/sprout-ai-exam.git
+cd sprout-ai-exam
+```
+---
+
+#### Step 2: Create .env File
+
+```bash
+# Create empty .env file
+touch .env
+```
+##### Add the following content to .env:
+
+---
+
 
