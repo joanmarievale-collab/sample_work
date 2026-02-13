@@ -1,6 +1,3 @@
-# sprout-ai-exam
-
-# Sprout AI Exam – Complete Setup Guide
 
 ---
 
@@ -18,8 +15,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/joanmarievale-collab/sprout-ai-exam.git
-cd sprout-ai-exam
+git clone https://github.com/joanmarievale-collab/sample_work.git
+cd sample_work
 
 # Create environment file
 cp .env.example .env
@@ -35,8 +32,8 @@ docker-compose up --build
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/joanmarievale-collab/sprout-ai-exam.git
-cd sprout-ai-exam
+git clone https://github.com/joanmarievale-collab/sample_work.git
+cd sample_work
 
 # 2. Create virtual environment
 python -m venv venv
@@ -81,8 +78,8 @@ streamlit run streamlit/chat_ui.py
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/joanmarievale-collab/sprout-ai-exam.git
-cd sprout-ai-exam
+git clone https://github.com/joanmarievale-collab/sample_work.git
+cd sample_work
 ```
 ---
 
