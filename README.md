@@ -102,7 +102,7 @@ touch .env
 
 ```bash
 # ===== App =====
-APP_NAME=Technical Exam Sentiment Analysis
+APP_NAME=Sentiment Analysis
 APP_VERSION=1.0.0
 DEBUG=false
 API_PREFIX=/sentiment
